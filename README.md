@@ -8,11 +8,6 @@ Full-stack development, focusing on the MERN stack and expanding my knowledge in
 💞️ I’m looking to collaborate on:
 Web and mobile application development, React-based projects, and anything related to solar energy systems or remote monitoring.
 
-📫 How to reach me:
-Email | GitHub | LinkedIn
-
-😄 Pronouns:
-He/Him
 
 ⚡ Fun fact:
 I love solving Rubik's cubes and enjoy hiking in my free time!
